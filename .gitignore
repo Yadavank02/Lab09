@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & OS files
+.env
+.DS_Store
+
+# Large output files / checkpoints (keep your final .png figures!)
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.csv
+*.mp4
